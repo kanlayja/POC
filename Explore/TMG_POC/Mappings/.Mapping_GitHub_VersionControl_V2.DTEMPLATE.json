@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "7Sm8zOmoa2cjPW4jFWn9W6",
-    "name" : "Mapping_GitHub_VersionControl",
+    "name" : "Mapping_GitHub_VersionControl_V2",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -23,7 +23,7 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2025-02-26T16:26:11.842Z",
+  "updateTime" : "2025-03-07T07:55:19.054Z",
   "objectRefs" : [ {
     "id" : "k60xOz4rf4ddb3dczriAot",
     "name" : "Hive_TMGPOC_STG",
